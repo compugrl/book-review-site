@@ -1,37 +1,65 @@
-header {
-  background-color: SteelBlue;
-  font-family: helvetica, sans-serif;
+header, footer {
+  background-color: indigo;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   height: 125px;
   margin-bottom: 10px;
   padding-top: 10px;
   padding-bottom: 10px;
   padding-left: 0px;
   padding-right: 0px;
+  border: 3px solid silver;
+  border-radius: 10px;
 }
 
 footer {
-  background-color: SteelBlue;
-  font-family: helvetica, sans-serif;
-  height: 100px;
   text-align: center;
+  color: whitesmoke;
+  height: 75px;
   padding-top: 50px;
-  color: WhiteSmoke;
 }
 
 nav {
-  color: WhiteSmoke;
+  color: whitesmoke;
   font-family: helvetica, sans-serif;
   padding-left: 20px;
 }
 
+ul {
+  list-style-type: none;
+}
+
 body {
-  background-color: SeaShell;
+  background-color: snow;
+  color: darkslategray;
 }
 
-h1, h2, h3, h4 {
-  color: WhiteSmoke;
+li {
+  margin-top: 10px;
 }
 
-img {
-  width: 250px;
+li:first-child {
+  margin-top: 0px;
 }
+
+h1, h2 {
+  font-family: 'Zen Loop', cursive;
+  color: darkslateblue;
+}
+
+h3, h4 {
+  color: whitesmoke;
+}
+
+a {
+  color: whitesmoke;
+  
+}
+
+a:hover {
+  background-color: silver;
+}
+
+i {
+  font-style: italic;
+}
+
