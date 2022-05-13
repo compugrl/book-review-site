@@ -1,0 +1,37 @@
+header {
+  background-color: SteelBlue;
+  font-family: helvetica, sans-serif;
+  height: 125px;
+  margin-bottom: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+footer {
+  background-color: SteelBlue;
+  font-family: helvetica, sans-serif;
+  height: 100px;
+  text-align: center;
+  padding-top: 50px;
+  color: WhiteSmoke;
+}
+
+nav {
+  color: WhiteSmoke;
+  font-family: helvetica, sans-serif;
+  padding-left: 20px;
+}
+
+body {
+  background-color: SeaShell;
+}
+
+h1, h2, h3, h4 {
+  color: WhiteSmoke;
+}
+
+img {
+  width: 250px;
+}
