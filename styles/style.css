@@ -37,12 +37,8 @@ body {
   color: darkslategray;
 }
 
-li {
-  margin-top: 10px;
-}
-
-li:first-child {
-  margin-top: 0px;
+.book {
+  margin-right: 15px;
 }
 
 h1, h2 {
