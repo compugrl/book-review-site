@@ -1,27 +1,28 @@
 header, footer {
   background-color: midnightblue;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  height: 125px;
-  margin-bottom: 10px;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  padding-left: 0px;
-  padding-right: 0px;
-  border: 3px solid silver;
+  height: 15vh;
+  padding-top: 2vh;
+  padding-bottom: 2vh;
+  padding-left: 0vw;
+  padding-right: 0vw;
+  border: 3px solid rgb(50, 158, 226);
   border-radius: 10px;
 }
 
 footer {
   text-align: center;
   color: whitesmoke;
-  height: 75px;
-  padding-top: 50px;
+  height: 10vh;
+  padding-top: 5vh;
+  margin-top: 2vh;
 }
 
 nav {
+  background-color: midnightblue;
   color: whitesmoke;
   font-family: helvetica, sans-serif;
-  padding-left: 20px;
+  padding-left: 2vw;
 }
 
 nav a {
@@ -33,17 +34,18 @@ ul {
 }
 
 body {
-  background-color: snow;
+  background-color: whitesmoke;
   color: darkslategray;
 }
 
 .book {
-  margin-right: 15px;
+  margin-right: 2vw;
 }
 
 h1, h2 {
   font-family: 'Zen Loop', cursive;
-  color: darkslateblue;
+  color: midnightblue;
+  margin-top: 2vh;
 }
 
 h3, h4 {
@@ -51,7 +53,7 @@ h3, h4 {
 }
 
 a:hover {
-  background-color: silver;
+  background-color: rgb(50, 158, 226);
 }
 
 i {

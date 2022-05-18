@@ -4,10 +4,12 @@ img {
 
 section {
     background-color: lightgray;
-    margin-bottom: 5px;
+    margin-bottom: 1vh;
 }
 
 p {
     line-height: 150%;
     color: black;
+    font-size: large;
+    font-family: sans-serif;
 }
